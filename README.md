@@ -13,11 +13,7 @@ The main idea is simple: patients should only book appointments with doctors who
 - Build Tool: Maven
 - Authentication: Session-based login with BCrypt password hashing
 
-## Project Location
 
-```text
-D:\DCLprojects\medislot-smart-appointment
-```
 
 ## Main Modules
 
